@@ -1,5 +1,5 @@
 # hello-world
 
-a parctice
+a practice
 
 this is a new text
